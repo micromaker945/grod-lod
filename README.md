@@ -1,2 +1,2 @@
 # grod-lod
-Eco Hello, world
+echo Hello, world!
